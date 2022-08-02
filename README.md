@@ -59,7 +59,7 @@ PowerBi
 6- The expensive trade players country
 ![The expensive trade players country](https://user-images.githubusercontent.com/104658866/173262926-9b36a2e3-54a4-40c3-b657-609f3fd9a2a4.png)
 
-### Visualization of Data 
+### Power BI
 -------------
 
 ![visualization of Player -Football -Transfer](https://user-images.githubusercontent.com/104658866/173264439-5b550623-a91f-4243-845f-f70626801fc5.png)
