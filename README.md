@@ -27,7 +27,9 @@ Data is taken from here.
 -------------
 
 Excel
+
 Jupyter
+
 PowerBi
 
 ### Results
